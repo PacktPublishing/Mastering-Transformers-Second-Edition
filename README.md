@@ -1,1 +1,1 @@
-# Mastering-Transformers-Second-Edition
+# Mastering Transformers, Second Edition
